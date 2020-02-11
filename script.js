@@ -5,5 +5,9 @@ let money = prompt("Ваш бюджет на месяц?"),
     console.log(money);
     console.log(time);
 
+    // Второе задание 
+
+    let appData = [];
+
     
       
